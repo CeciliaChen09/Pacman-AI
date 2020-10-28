@@ -8,7 +8,10 @@ Download the file and run `python3 pacmanAI.py` in the right path of your comput
 # The instruction
 Let’s take a maze for example:
 1. From the beginning, we could choose the size of the game and the number of the ghosts: we choose the small size and five ghosts
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gk5cg4h9noj30dk04j74r.jpg=250x)
+![](https://tva1.sinaimg.cn/large/0081Kckwly1gk5cg4h9noj30dk04j74r.jpg)
+
+<img src="https://tva1.sinaimg.cn/large/0081Kckwly1gk5cg4h9noj30dk04j74r.jpg" width="200">
+
 
 2. The instruction will show up to guide the player to play the game.
 ![](https://tva1.sinaimg.cn/large/0081Kckwly1gk5cgm316kj31020la75t.jpg=250x)
