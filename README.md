@@ -3,7 +3,7 @@
 Our game is based on the classic pacman game with some modifications and extensions. 
 
 # How to play the game
-Download the file and run `python pacmanAI.py` in the right path of your computer. 
+Download the file and run `python pacmanGame.py` in the right path of your computer. 
 
 # The instruction
 Let’s take a maze for example:
