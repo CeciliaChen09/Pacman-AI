@@ -7,16 +7,15 @@ Our game is based on the classic pacman game with some modifications and extensi
 Download the file and run `python playPacmane.py` in the right path of your computer. 
 Besides, you should install numpy and torch 
 
-# The instruction
+# The instruction 
 
-1. From the start of game, we can choose the "baseline" AI or the tree-based AI.
-<img src="https://github.com/Jenniem17/screenshots/blob/main/instructions1.png" width="400">
+1. From the start of game, we can choose one of the instance games.
+<img src="https://tva1.sinaimg.cn/large/0081Kckwly1glpsa0zcmlj30uc064dgy.jpg" width="400">
 
+2. Then we can choose the control strategy.
+<img src=https://tva1.sinaimg.cn/large/0081Kckwly1glpsifgrjaj30r00563z7.jpg" width="400">
 
-2. Then we can choose the size of game maze.
-<img src="https://github.com/Jenniem17/screenshots/blob/main/instructions2.png" width="400">
-
-3. For each turn, the AI's action will be shown and we can press "Enter" to continue.
-<img src="https://github.com/Jenniem17/screenshots/blob/main/instructions3.png" width="600">
+3. If we choose mcts + nn, the AI's action will be shown and we can press "Enter" to continue.
+<img src="https://tva1.sinaimg.cn/large/0081Kckwly1glpsl3jbhkj30is0j2dgn.jpg" width="600">
 
 
