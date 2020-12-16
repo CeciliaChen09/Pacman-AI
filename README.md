@@ -13,9 +13,10 @@ Besides, you should install numpy and torch
 <img src="https://tva1.sinaimg.cn/large/0081Kckwly1glpsa0zcmlj30uc064dgy.jpg" width="400">
 
 2. Then we can choose the control strategy.
-<img src=https://tva1.sinaimg.cn/large/0081Kckwly1glpsifgrjaj30r00563z7.jpg" width="400">
+<img src="https://tva1.sinaimg.cn/large/0081Kckwly1glpslnf5uuj30r00563z7.jpg" width="400">
 
 3. If we choose mcts + nn, the AI's action will be shown and we can press "Enter" to continue.
-<img src="https://tva1.sinaimg.cn/large/0081Kckwly1glpsl3jbhkj30is0j2dgn.jpg" width="600">
+<img src="https://tva1.sinaimg.cn/large/0081Kckwly1glpsl3jbhkj30is0j2dgn.jpg" width="400">
+
 
 
